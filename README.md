@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I am Structural Sensei
 
-<!--
-**StructuralSensei/StructuralSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🥋 Karate | 🐍 STEM (Python) | 💰 Finance
 
-Here are some ideas to get you started:
+I apply the discipline of a black belt, the logic of Python systems, and the principles of financial leverage to master life and build high-leverage systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- **Discipline (Karate):** Teaching how martial arts focus translates to career and personal growth.
+- **Automation (STEM):** Building clean Python scripts to optimize workflows.
+- **Independence (Finance):** Creating strategies for wealth building and financial freedom.
+
+## 🛠️ My Ecosystem & Tools
+- 🌐 **Website:** [structuralsensei.cc](https://structuralsensei.cc)
+- 📦 **PyPI Packages:** [WicoBuys on PyPI](https://pypi.org)
+- 💰 **Premium Tools & Guides:** [My Gumroad Shop](https://gumroad.com)
+
+---
+
+*“The bridge between academic theory and real-world mastery.”*
