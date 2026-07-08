@@ -17,10 +17,10 @@ I apply the discipline of a black belt, the logic of Python systems, and the pri
 Here is a live look into my coding ecosystem:
 
 <p align="center">
-  <img src="https://vercel.app" alt="Structural Sensei's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages Used" height="180px" />
+  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" alt="Stars" />
+  <img src="https://shields.io" alt="Python" />
 </p>
-
 ---
 
 ## 🛠️ My Ecosystem & Tools
