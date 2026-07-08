@@ -13,7 +13,7 @@ I apply the discipline of a black belt, the logic of Python systems, and the pri
 
 ## 🛠️ My Ecosystem & Tools
 - 🌐 **Website:** [structuralsensei.cc](https://structuralsensei.cc)
-- 📦 **PyPI Packages:** [WicoBuys on PyPI](https://pypi.org)
+- 📦 **PyPI Packages:** [WicoBuys on PyPI](https://pypi.org/user/WicoBuys/)
 - 💰 **Premium Tools & Guides:** [My Gumroad Shop](https://gumroad.com)
 
 ---
