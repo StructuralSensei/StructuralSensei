@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I am a civil engineering professional and technical manager bridging heavy infrastructure materials science with modern software engineering. Under the digital persona **Structural Sensei**, I design high-leverage Python automation workflows, scalable data-scraping utilities, and digital tools that eliminate friction in both engineering laboratories and modern tech stacks.
+I combine *Civil Engineering Fundamentals* with *Karate Discipline* to build scalable Python automation and workflow optimization tools. As Structural Sensei, I showcase *real-world technical builds* and foster knowledge transfer—mentoring builders to stay ahead of rapidly evolving technology by leveraging the combined efficiency and mindset of an engineer and a Karateka.
 
 > *“Merging the strict discipline of martial arts with systematic code to engineer high-performance solutions.”*
 
