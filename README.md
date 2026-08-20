@@ -27,7 +27,7 @@ I combine *Civil Engineering Fundamentals* with *Karate Discipline* to build sca
 
 | Metric | Status / Score | Focus Area |
 | :--- | :---: | :--- |
-| **Active Repositories** | `15+ Public / Private` | Python Automation & Engineering Tools |
+| **Active Repositories** | `14+ Public / Private` | Python Automation & Engineering Tools |
 | **Data Scraped & Audited** | `10,000+ Domains` | High-Speed Web Scraping & Lead Gen |
 | **Core Languages** | `Python, SQL, HTML/CSS` | Backend Workflows & Static Deployments |
 | **Infrastructure Stack** | `Cloudflare Pages, PyCharm` | Serverless & Modern IDE Environments |
