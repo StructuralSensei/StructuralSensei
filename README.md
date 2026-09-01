@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-structuralsensei.cc-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://structuralsensei.cc)
 [![PyPI](https://img.shields.io/badge/PyPI-WicoBuys-red?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/WicoBuys/)
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=red)](https://www.youtube.com/@StruktuurSensei))
 [![Gumroad](https://img.shields.io/badge/Shop-Gumroad-yellow?style=for-the-badge&logo=gumroad&logoColor=black)](https://wico.gumroad.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d3526b89af44ad3e)
 
