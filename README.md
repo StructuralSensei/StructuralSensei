@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Structural Sensei [![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/structuralsensei)
+# 👋 Hello, I'm Structural Sensei
 
 <div align="center">
 
@@ -11,6 +11,10 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d3526b89af44ad3e)
 
 </div>
+
+---
+
+> ☕ **Love the tools, guides, or open-source builds?** If something I've created has saved you time or solved a headache, consider [buying me a ko-fi](https://ko-fi.com/structuralsensei)! [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/structuralsensei) Every bit of support helps keep these projects free, active, and continuously updated. Thank you for fueling the work!
 
 ---
 
