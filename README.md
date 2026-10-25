@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Structural Sensei
+# 👋 Hello, I'm Structural Sensei [![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/structuralsensei)
 
 <div align="center">
 
@@ -40,19 +40,19 @@ I combine *Civil Engineering Fundamentals* with *Karate Discipline* to build sca
 ## 🛠️ The Ecosystem & Recent Tools
 
 ### 🌐 Web & Products
-* **[Structural Sensei Hub](https://structuralsensei.cc):** The central command center linking personal projects, developer portfolios, and engineering utilities.
-* **[Gumroad Store](https://wico.gumroad.com):** Premium guides, code templates, and high-leverage toolkits for automation builders.
-* **[PyPI Packages](https://pypi.org/user/WicoBuys/):** Published Python packages designed to streamline routine data processing tasks.
-* **[Upwork Profile](https://www.upwork.com/freelancers/~01d3526b89af44ad3e):** Available for specialized freelance development, custom web scraping, and automation engineering contracts.
+- **[Structural Sensei Hub](https://structuralsensei.cc):** The central command center linking personal projects, developer portfolios, and engineering utilities.
+- **[Gumroad Store](https://wico.gumroad.com):** Premium guides, code templates, and high-leverage toolkits for automation builders.
+- **[PyPI Packages](https://pypi.org/user/WicoBuys/):** Published Python packages designed to streamline routine data processing tasks.
+- **[Upwork Profile](https://www.upwork.com/freelancers/~01d3526b89af44ad3e):** Available for specialized freelance development, custom web scraping, and automation engineering contracts.
 
 ### 🧩 Software, Extensions & Repositories
-* **[Custom Chrome Extensions](https://chromewebstore.google.com/detail/nincdcgihdipeclcaofdhlhhcgkjhkgc?utm_source=item-share-cb):** Specialized browser utilities built to optimize day-to-day web workflows and data extraction.
-* **[Water-to-Cement Ratio Engine](https://github.com/StructuralSensei/Numerical-Method-for-Water-Cement-Ratio):** Numerical methods repository engineered to calculate and optimize concrete mix designs in geotechnical environments.
+- **[Custom Chrome Extensions](https://chromewebstore.google.com/detail/nincdcgihdipeclcaofdhlhhcgkjhkgc?utm_source=item-share-cb):** Specialized browser utilities built to optimize day-to-day web workflows and data extraction.
+- **[Water-to-Cement Ratio Engine](https://github.com/StructuralSensei/Numerical-Method-for-Water-Cement-Ratio):** Numerical methods repository engineered to calculate and optimize concrete mix designs in geotechnical environments.
 
 
 ### 💼 Freelance & Client Solutions
-* Experienced in delivering custom Python web scrapers, data pipelines, and automation solutions for global clients via [Upwork](https://www.upwork.com/freelancers/~01d3526b89af44ad3e).
-* Proven track record of building robust data processing scripts, automated reporting systems, and clean architectural workflows tailored to client specifications.
+- Experienced in delivering custom Python web scrapers, data pipelines, and automation solutions for global clients via [Upwork](https://www.upwork.com/freelancers/~01d3526b89af44ad3e).
+- Proven track record of building robust data processing scripts, automated reporting systems, and clean architectural workflows tailored to client specifications.
 
 ---
 
