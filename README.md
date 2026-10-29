@@ -83,7 +83,7 @@ I combine *Civil Engineering Fundamentals* with *Karate Discipline* to build sca
 
 [![Profile Views](https://komarev.com/ghpvc/?username=WicoBuys&style=for-the-badge&color=blueviolet)](https://github.com/WicoBuys)
 [![GitHub Streak](https://img.shields.io/badge/Status-Active_Builder-success?style=for-the-badge&logo=github)]()
-[![Automation Focus](https://img.shields.io/badge/Focus-Python_%26_Scraping-informational?style=for-the-badge&logo=python)]()
+[![Automation Focus](https://img.shields.io/badge/Focus-Automation_%26_Python-informational?style=for-the-badge&logo=python)]()
 
 </div>
 
